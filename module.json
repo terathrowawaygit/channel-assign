@@ -1,6 +1,7 @@
 {
     "name": "channel-assign",
     "author": "niceguy123",
+    "description": "Auto assign channels to party members in party chat",
     "options": {
         "niceName": "channel-assign"
     }
