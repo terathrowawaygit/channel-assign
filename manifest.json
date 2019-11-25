@@ -1,0 +1,14 @@
+{
+    "files": {
+        "index.js": "bc779b6ff2eecedd7807951dceb53da92d40268e738726e2755a7f97a4d15ddd",
+        "module.json": "b3afdc8a82c789390c2811af4b5a9fe3031946c364e69b92cd45d6c87ac3085d",
+        "README.md": "8d3629067d02357ff537715bbc94dd1ac66c7a94a3eaaf0b07cecd5c30758502"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "S_LEAVE_PARTY": 1,
+        "S_LEAVE_PARTY_MEMBER": 2,
+        "S_BAN_PARTY_MEMBER": 1,
+        "S_PARTY_MEMBER_LIST": 7
+    }
+}

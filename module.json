@@ -1,0 +1,11 @@
+{
+    "name": "channel-assign",
+    "author": "niceguy123",
+    "options": {
+        "niceName": "channel-assign"
+    }
+    "servers": [
+        "https://raw.githubusercontent.com/terathrowawaygit/channel-assign/master/"
+    ],
+    "supportUrl": "https://github.com/terathrowawaygit/channel-assign/issues"
+}
