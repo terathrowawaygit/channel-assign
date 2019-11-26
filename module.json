@@ -4,7 +4,7 @@
     "description": "Auto assign channels to party members in party chat",
     "options": {
         "niceName": "channel-assign"
-    }
+    },
     "servers": [
         "https://raw.githubusercontent.com/terathrowawaygit/channel-assign/master/"
     ],
