@@ -1,4 +1,4 @@
-module.exports = function PartyChannelDivider(mod) {
+module.exports = function PartyChannelAssigner(mod) {
     let partyMembers = [];
     let channelsAmount = 20;
    
